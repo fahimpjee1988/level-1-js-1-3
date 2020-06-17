@@ -1,0 +1,12 @@
+#cal{
+    border:1px solid black;
+    width:400px;
+    margin: 0 auto;
+    margin-top: 0%;
+    text-align: left;
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
